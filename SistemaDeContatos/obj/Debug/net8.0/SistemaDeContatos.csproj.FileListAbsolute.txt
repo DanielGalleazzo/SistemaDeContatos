@@ -32,3 +32,4 @@ C:\Users\danie\Desktop\SistemaDeContatos\SistemaDeContatos\obj\Debug\net8.0\refi
 C:\Users\danie\Desktop\SistemaDeContatos\SistemaDeContatos\obj\Debug\net8.0\SistemaDeContatos.pdb
 C:\Users\danie\Desktop\SistemaDeContatos\SistemaDeContatos\obj\Debug\net8.0\SistemaDeContatos.genruntimeconfig.cache
 C:\Users\danie\Desktop\SistemaDeContatos\SistemaDeContatos\obj\Debug\net8.0\ref\SistemaDeContatos.dll
+C:\Users\danie\Desktop\SistemaDeContatos\SistemaDeContatos\obj\Debug\net8.0\SistemaDeContatos.sourcelink.json
