@@ -1,0 +1,4 @@
+Projeto com o intuíto de compreender a funcionalidade de um front-end, back-end e um banco de dados
+Necessário baixar cinco bibiliotecas : Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation;
+Microsoft.EntityFrameworkCore; Microsoft.EntityFrameworkCore.Design ; Microsoft.EntityFrameworkCore.SqlServer ;
+Microsoft.EntityFrameworkCore.Tools .
