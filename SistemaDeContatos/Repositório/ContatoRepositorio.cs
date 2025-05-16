@@ -10,11 +10,17 @@ namespace SistemaDeContatos.Repositório
         
             _bancoContext = bancoContext;
         }
+        public List<ContatoModel> BuscarTodos()
+        {
+            return _bancoContext.Contatos.ToList();
+        }
         public ContatoModel Adicionar(ContatoModel contato)
         {
             _bancoContext.Contatos.Add(contato);
             _bancoContext.SaveChanges();
             return contato;
         }
+
+     
     }
 }
