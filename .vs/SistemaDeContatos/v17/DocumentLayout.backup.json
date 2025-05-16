@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\reposit\u00F3rio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\reposit\u00F3rio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\reposit\u00F3rio\\interfacecontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\reposit\u00F3rio\\interfacecontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\controllers\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\controllers\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\sistemadecontatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -31,20 +51,12 @@
       "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\controllers\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\controllers\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF598447-C6DF-42F6-BBFD-0E1DDBBE177E}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\danie\\desktop\\sistemadecontatos\\sistemadecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,50 +74,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "SistemaDeContatos\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\appsettings.Development.json",
-              "RelativeToolTip": "SistemaDeContatos\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-15T20:52:56.693Z",
+              "DocumentIndex": 4,
+              "Title": "InterfaceContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Reposit\u00F3rio\\InterfaceContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "SistemaDeContatos\\Reposit\u00F3rio\\InterfaceContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Reposit\u00F3rio\\InterfaceContatoRepositorio.cs*",
+              "RelativeToolTip": "SistemaDeContatos\\Reposit\u00F3rio\\InterfaceContatoRepositorio.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:49:35.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Reposit\u00F3rio\\ContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "SistemaDeContatos\\Reposit\u00F3rio\\ContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Reposit\u00F3rio\\ContatoRepositorio.cs*",
+              "RelativeToolTip": "SistemaDeContatos\\Reposit\u00F3rio\\ContatoRepositorio.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:49:13.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Program.cs",
               "RelativeDocumentMoniker": "SistemaDeContatos\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Program.cs",
-              "RelativeToolTip": "SistemaDeContatos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Program.cs*",
+              "RelativeToolTip": "SistemaDeContatos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T18:19:39.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SistemaDeContatos.csproj",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\SistemaDeContatos.csproj",
-              "RelativeDocumentMoniker": "SistemaDeContatos\\SistemaDeContatos.csproj",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\SistemaDeContatos.csproj",
-              "RelativeToolTip": "SistemaDeContatos\\SistemaDeContatos.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-04T19:51:40.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "BancoContext.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Data\\BancoContext.cs",
               "RelativeDocumentMoniker": "SistemaDeContatos\\Data\\BancoContext.cs",
@@ -118,7 +130,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Controllers\\Contato.cs",
+              "RelativeDocumentMoniker": "SistemaDeContatos\\Controllers\\Contato.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Controllers\\Contato.cs*",
+              "RelativeToolTip": "SistemaDeContatos\\Controllers\\Contato.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:05:45.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SistemaDeContatos\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\appsettings.Development.json",
+              "RelativeToolTip": "SistemaDeContatos\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T20:52:56.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Views\\Contato\\Criar.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeContatos\\Views\\Contato\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Views\\Contato\\Criar.cshtml*",
+              "RelativeToolTip": "SistemaDeContatos\\Views\\Contato\\Criar.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T17:44:05.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaDeContatos\\appsettings.json",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\appsettings.json*",
+              "RelativeToolTip": "SistemaDeContatos\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T00:43:30.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "SistemaDeContatos.csproj",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\SistemaDeContatos.csproj",
+              "RelativeDocumentMoniker": "SistemaDeContatos\\SistemaDeContatos.csproj",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\SistemaDeContatos.csproj",
+              "RelativeToolTip": "SistemaDeContatos\\SistemaDeContatos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T19:51:40.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ContatoModel.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Models\\ContatoModel.cs",
               "RelativeDocumentMoniker": "SistemaDeContatos\\Models\\ContatoModel.cs",
@@ -126,25 +202,11 @@
               "RelativeToolTip": "SistemaDeContatos\\Models\\ContatoModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T19:49:26.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T19:49:26.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Contato.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Controllers\\Contato.cs",
-              "RelativeDocumentMoniker": "SistemaDeContatos\\Controllers\\Contato.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Controllers\\Contato.cs",
-              "RelativeToolTip": "SistemaDeContatos\\Controllers\\Contato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T18:05:45.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Views\\Contato\\Editar.cshtml",
               "RelativeDocumentMoniker": "SistemaDeContatos\\Views\\Contato\\Editar.cshtml",
@@ -152,12 +214,11 @@
               "RelativeToolTip": "SistemaDeContatos\\Views\\Contato\\Editar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T17:57:35.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T17:57:35.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Views\\Contato\\Index.cshtml",
               "RelativeDocumentMoniker": "SistemaDeContatos\\Views\\Contato\\Index.cshtml",
@@ -165,12 +226,11 @@
               "RelativeToolTip": "SistemaDeContatos\\Views\\Contato\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAuwDAAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T21:35:36.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T21:35:36.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Apagar.cshtml",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Views\\Contato\\Apagar.cshtml",
               "RelativeDocumentMoniker": "SistemaDeContatos\\Views\\Contato\\Apagar.cshtml",
@@ -178,25 +238,11 @@
               "RelativeToolTip": "SistemaDeContatos\\Views\\Contato\\Apagar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T17:58:22.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T17:58:22.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Criar.cshtml",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Views\\Contato\\Criar.cshtml",
-              "RelativeDocumentMoniker": "SistemaDeContatos\\Views\\Contato\\Criar.cshtml",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Views\\Contato\\Criar.cshtml",
-              "RelativeToolTip": "SistemaDeContatos\\Views\\Contato\\Criar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T17:44:05.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SistemaDeContatos\\Views\\Home\\Index.cshtml",
@@ -204,12 +250,11 @@
               "RelativeToolTip": "SistemaDeContatos\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T21:33:08.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T21:33:08.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SistemaDeContatos\\Views\\Shared\\_Layout.cshtml",
@@ -217,12 +262,11 @@
               "RelativeToolTip": "SistemaDeContatos\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAIBZwCgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T21:31:10.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T21:31:10.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SistemaDeContatos\\Controllers\\HomeController.cs",
@@ -230,8 +274,7 @@
               "RelativeToolTip": "SistemaDeContatos\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T21:30:19.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T21:30:19.688Z"
             }
           ]
         }
