@@ -7,7 +7,7 @@ namespace SistemaDeContatos.Repositório
     {
         private readonly BancoContext _bancoContext;
         public ContatoRepositorio(BancoContext bancoContext) {
-        
+
             this._bancoContext = bancoContext;
         }
         public ContatoModel ListarPorId(int id)
@@ -25,6 +25,17 @@ namespace SistemaDeContatos.Repositório
             return contato;
         }
 
-        
+        public ContatoModel Atualizar(ContatoModel contato)
+        {
+            ContatoModel contatoDB = ListarPorId(contato.Id);
+            if (contatoDB == null) 
+            throw new SystemException("Houve uma atualização no contato");
+            contatoDB.Name = contato.Name;
+            contatoDB.Email = contato.Email;
+            contatoDB.Celular= contato.Celular;
+            _bancoContext.Contatos.Update(contatoDB);
+            _bancoContext.SaveChanges();
+            return contatoDB;
+        }
     }
 }
