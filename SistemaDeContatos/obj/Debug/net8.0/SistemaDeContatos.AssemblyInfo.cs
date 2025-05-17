@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaDeContatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b535f07b1a9645c8d491357b40c3aa72d0b248d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cd71216dcb894fc9b2479bdbed750f4001c261a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaDeContatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaDeContatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
