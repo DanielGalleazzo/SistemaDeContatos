@@ -26,9 +26,15 @@ namespace SistemaDeContatos.Controllers
             ContatoModel contato = _contatoRepositorio.ListarPorId(id);
             return View(contato);
         }
-        public IActionResult Apagar()
+        public IActionResult ApagarConfirmacao(int id )
         {
+            ContatoModel contato = _contatoRepositorio.ListarPorId(id);
             return View();
+        }
+        public IActionResult Apagar(int id)
+        {
+            _contatoRepositorio.Apagar(id);
+            return RedirectToAction("Index");
         }
         [HttpPost]
         public IActionResult Criar(ContatoModel contato)
