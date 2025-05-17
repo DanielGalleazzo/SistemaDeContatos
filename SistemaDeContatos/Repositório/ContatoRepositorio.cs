@@ -8,7 +8,11 @@ namespace SistemaDeContatos.Repositório
         private readonly BancoContext _bancoContext;
         public ContatoRepositorio(BancoContext bancoContext) {
         
-            _bancoContext = bancoContext;
+            this._bancoContext = bancoContext;
+        }
+        public ContatoModel ListarPorId(int id)
+        {
+            return _bancoContext.Contatos.FirstOrDefault(x => x.Id == id);
         }
         public List<ContatoModel> BuscarTodos()
         {
@@ -21,6 +25,6 @@ namespace SistemaDeContatos.Repositório
             return contato;
         }
 
-     
+        
     }
 }
