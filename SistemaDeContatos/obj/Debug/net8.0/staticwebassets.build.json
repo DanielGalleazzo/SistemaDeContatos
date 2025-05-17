@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Sttr9MG81h7HKdiJWsQoRsBvzpmTxOqfmpDhPbWUVBA=",
+  "Hash": "dfH6z3DMMHk1nQzCJ46luvBmfBHotiaXRej+LmDxYSY=",
   "Source": "SistemaDeContatos",
   "BasePath": "_content/SistemaDeContatos",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "0ua2je0u8w",
+      "Integrity": "qPEuALbZzqCeqYQ4NhhMpeneFdMBefPiYH+CWZB3EL8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1321,7 +1321,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.0ua2je0u8w.css",
       "AssetFile": "C:\\Users\\danie\\Desktop\\SistemaDeContatos\\SistemaDeContatos\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1331,7 +1331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "408"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"qPEuALbZzqCeqYQ4NhhMpeneFdMBefPiYH+CWZB3EL8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 21:29:00 GMT"
+          "Value": "Sat, 17 May 2025 21:33:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,7 +1353,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "0ua2je0u8w"
         },
         {
           "Name": "label",
@@ -1361,7 +1361,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-qPEuALbZzqCeqYQ4NhhMpeneFdMBefPiYH+CWZB3EL8="
         }
       ]
     },
@@ -1376,7 +1376,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "408"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1384,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"qPEuALbZzqCeqYQ4NhhMpeneFdMBefPiYH+CWZB3EL8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 21:29:00 GMT"
+          "Value": "Sat, 17 May 2025 21:33:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1398,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-qPEuALbZzqCeqYQ4NhhMpeneFdMBefPiYH+CWZB3EL8="
         }
       ]
     },
